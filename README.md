@@ -1,2 +1,2 @@
-# face_detection
-use opencv to identify face expression
+# facial_detection
+use opencv to identify facial expressions
